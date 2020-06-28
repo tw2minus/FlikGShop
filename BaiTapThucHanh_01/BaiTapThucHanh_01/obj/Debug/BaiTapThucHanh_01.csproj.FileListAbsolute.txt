@@ -1,0 +1,28 @@
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\bin\Debug\BaiTapThucHanh_01.exe.config
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\bin\Debug\BaiTapThucHanh_01.exe
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\bin\Debug\BaiTapThucHanh_01.pdb
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.csprojAssemblyReference.cache
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.LogInForm.resources
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.Properties.Resources.resources
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.csproj.GenerateResource.cache
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.csproj.CoreCompileInputs.cache
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.exe
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.pdb
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.HeThongForm.resources
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.SinhVienForm.resources
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.LopTCForm.resources
+D:\DOAN\WORK\EPU\DAY HOC\Lập trình Dot NET\Programs\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.ThongTinHocPhiForm.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\bin\Debug\BaiTapThucHanh_01.exe.config
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\bin\Debug\BaiTapThucHanh_01.exe
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\bin\Debug\BaiTapThucHanh_01.pdb
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.csprojAssemblyReference.cache
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.HeThongForm.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.LogInForm.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.LopTCForm.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.Properties.Resources.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.SinhVienForm.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.ThongTinHocPhiForm.resources
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.csproj.GenerateResource.cache
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.csproj.CoreCompileInputs.cache
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.exe
+E:\BaiTapThucHanh_01\BaiTapThucHanh_01\obj\Debug\BaiTapThucHanh_01.pdb
